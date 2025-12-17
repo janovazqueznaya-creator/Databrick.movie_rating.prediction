@@ -1,2 +1,16 @@
-# Databrick.movie_rating.prediction
-Proyecto desarrollado en Databricks para predecir ratings de películas utilizando el dataset MovieLens. Incluye análisis de datos con SQL, python, preparación de datos y entrenamiento de un modelo de Machine Learning supervisado (Random Forest Regressor) para estimar la calificación de los usuarios.
+# Movie Rating Prediction with Machine Learning
+
+Proyecto desarrollado en Databricks utilizando SQL y Python para predecir ratings de películas
+usando el dataset MovieLens.
+
+## Tecnologías
+- Databricks
+- SQL
+- Python
+- Machine Learning (Random Forest)
+
+## Resultados
+- RMSE: 0.82
+
+## Dataset
+MovieLens - ml-latest-small
